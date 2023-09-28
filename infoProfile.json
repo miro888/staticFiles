@@ -6,7 +6,7 @@
     "age": "30",
     "address": "Tbilisi, Georgia",
     "job": "Front-End",
-    "freelance": "Avialable",
+    "freelance": "Available",
     "resumeURL": "https://drive.google.com/file/d/1xCe6r4um64dFpMzQd1d_mhC697zDclsz/view?usp=drive_link",
     "social": [
         {
@@ -14,7 +14,7 @@
             "url": "www.facebook.com"
         }
     ],
-    "aboutUser": "Lorem ipsum dolorconsectetur adipisicing elit. Aliquam eaque eos similique suscipit? ab doloremque soluta sunt sed illum culpa, maiores excepturi, asperiores consequatur incidunt modi coluptatibus facilis, assumenda itaque.",
+    "aboutUser": "Lorem ipsum dolor consectetur adipisicing elit. Aliquam eaque eos similique suscipit? ab doloremque soluta sunt sed illum culpa, maiores excepturi, asperiores consequatur incidunt modi coluptatibus facilis, assumenda itaque.",
     "shapes": [
         {
             "shape": "circle"
@@ -53,7 +53,7 @@
         {
             "language": "Russian",
             "level": 90
-        },
+        }
     ],
     "skills": [
         {
@@ -71,29 +71,27 @@
         {
             "language": "React",
             "level": 60
-        },
-
+        }
     ],
     "extraSkills": [
         {
-            "icon": "Bootstrap, Materialize , Tailwind CSS"
+            "icon": "Bootstrap, Materialize, Tailwind CSS"
         },
         {
-            "icon": " SASS/SCSS, Less"
+            "icon": "SASS/SCSS, Less"
         },
-
         {
             "icon": "GIT Knowledge"
         },
         {
-            "icon": "npm, Knowledge"
+            "icon": "npm Knowledge"
         }
     ],
     "myServiceDescription": "Are you looking for a talented junior front-end developer to bring your website to life? Look no further! As a junior front-end developer, I specialize in creating visually stunning and user-friendly websites that are optimized for performance and accessibility.",
     "services": [
         {
             "title": "Web Development",
-            "description": "Blog, E-Comerce",
+            "description": "Blog, E-Commerce",
             "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/development.svg"
         },
         {
@@ -123,29 +121,27 @@
         },
         {
             "title": "Accessibility",
-            "description": " I follow best practices to ensure that your website is accessible to all users, including those with disabilities.",
+            "description": "I follow best practices to ensure that your website is accessible to all users, including those with disabilities.",
             "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/development.svg"
-        },
-
+        }
     ],
     "education": {
-        "additional": "In GeoLab we teach the students how to create and organize dynamic websites. A dynamic website is saved on a web server in a form of scripts, templates and other data. Such website is located on a server as separate components.",
+        "additional": "In GeoLab, we teach the students how to create and organize dynamic websites. A dynamic website is saved on a web server in the form of scripts, templates, and other data. Such a website is located on a server as separate components.",
         "items": [
             {
                 "title": "Html/Css",
                 "learner": "Student",
-                "graduation": " Oct 2023",
-                "description": " GeoLab - is a mobile and web applications laboratory. This space is open 24 hours for different, interesting and innovative projects. The training center is an indivisible part of GeoLab, which provides various directions to match anyone’s sphere of interest."
+                "graduation": "Oct 2023",
+                "description": "GeoLab - is a mobile and web applications laboratory. This space is open 24 hours for different, interesting, and innovative projects. The training center is an indivisible part of GeoLab, which provides various directions to match anyone’s sphere of interest."
             },
             {
                 "title": "React.Js",
                 "learner": "Student",
-                "graduation": " Dec 2022",
-                "description": "GeoLab - is a mobile and web applications laboratory. This space is open 24 hours for different, interesting and innovative projects. The training center is an indivisible part of GeoLab, which provides various directions to match anyone’s sphere of interest."
+                "graduation": "Dec 2022",
+                "description": "GeoLab - is a mobile and web applications laboratory. This space is open 24 hours for different, interesting, and innovative projects. The training center is an indivisible part of GeoLab, which provides various directions to match anyone’s sphere of interest."
             }
         ]
     },
-
     "contactinfo": [
         {
             "iconPath": "https://raw.githubusercontent.com/Gkhundadze/staticFiles/main/service-icons/design.svg",
