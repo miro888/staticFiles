@@ -11,7 +11,7 @@
     "projects": [
         {
             "name":"Travel Planner",
-            "url":"miro888.github.io/travel_list/",
+            "url":"https://miro888.github.io/travel_list/",
             "imgCard":""
         },
         {
@@ -21,7 +21,7 @@
         },
         {
             "name":"Nippy",
-            "url":"miro888.github.io/project-Nippy/",
+            "url":"https://miro888.github.io/project-Nippy/",
             "imgCard":""
         },
         {
@@ -31,7 +31,7 @@
         },
         {
             "name":"Futurama",
-            "url":"miro888.github.io/repositor-06/",
+            "url":"https://miro888.github.io/repositor-06/",
             "imgCard":""
         }
     ],
