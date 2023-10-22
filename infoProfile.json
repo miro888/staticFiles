@@ -123,6 +123,9 @@
         },
         {
             "icon": "npm Knowledge"
+        },
+        {
+            "icon": "Json"
         }
     ],
     "myServiceDescription": "Are you looking for a talented junior front-end developer to bring your website to life? Look no further! As a junior front-end developer, I specialize in creating visually stunning and user-friendly websites that are optimized for performance and accessibility.",
@@ -167,15 +170,15 @@
         "additional": "In GeoLab, we teach the students how to create and organize dynamic websites. A dynamic website is saved on a web server in the form of scripts, templates, and other data. Such a website is located on a server as separate components.",
         "items": [
             {
-                "title": "Html/Css",
+                "title": "React.Js",
                 "learner": "Student",
-                "graduation": "Oct 2023",
+                "graduation": "Dec 2023",
                 "description": "GeoLab - is a mobile and web applications laboratory. This space is open 24 hours for different, interesting, and innovative projects. The training center is an indivisible part of GeoLab, which provides various directions to match anyone’s sphere of interest."
             },
             {
-                "title": "React.Js",
+                "title": "Html/Css",
                 "learner": "Student",
-                "graduation": "Dec 2022",
+                "graduation": "Oct 2022",
                 "description": "GeoLab - is a mobile and web applications laboratory. This space is open 24 hours for different, interesting, and innovative projects. The training center is an indivisible part of GeoLab, which provides various directions to match anyone’s sphere of interest."
             }
         ]
