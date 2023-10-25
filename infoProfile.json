@@ -12,7 +12,7 @@
         {
             "name":"Travel Planner",
             "url":"https://miro888.github.io/travel_list/",
-            "imgCard":"https://github.com/miro888/staticFiles/blob/main/Project-IMGS/trip_list.jpeg?raw=true"
+            "imgCard":"https://raw.githubusercontent.com/miro888/staticFiles/main/Project-IMGS/trip_list-min.webp"
         },
         {
             "name":"Accommodation",
@@ -22,17 +22,17 @@
         {
             "name":"Nippy",
             "url":"https://miro888.github.io/project-Nippy/",
-            "imgCard":"https://github.com/miro888/staticFiles/blob/main/Project-IMGS/Nippy.jpeg?raw=true"
+            "imgCard":"https://raw.githubusercontent.com/miro888/staticFiles/main/Project-IMGS/Nippy-min.webp"
         },
         {
             "name":"Tindog",
             "url":"https://miro888.github.io/Tindog/",
-            "imgCard":"https://github.com/miro888/staticFiles/blob/main/Project-IMGS/Tindod.jpeg?raw=true"
+            "imgCard":"https://raw.githubusercontent.com/miro888/staticFiles/main/Project-IMGS/Tindod-min.webp"
         },
         {
             "name":"Futurama",
             "url":"https://miro888.github.io/repositor-06/",
-            "imgCard":"https://github.com/miro888/staticFiles/blob/main/Project-IMGS/futurama.jpg?raw=true"
+            "imgCard":"https://raw.githubusercontent.com/miro888/staticFiles/main/Project-IMGS/futurama-min.webp"
         }
     ],
     "social": [
